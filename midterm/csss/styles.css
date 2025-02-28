@@ -1,4 +1,10 @@
-
+nav {
+    background: #0ddbee;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+ 
+}
 body {
     font-family: Arial, sans-serif;
     margin: 0;
